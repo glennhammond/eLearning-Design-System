@@ -1,0 +1,462 @@
+/* screen - atoms-page */
+
+.atoms-page {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 4713px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.atoms-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 850px;
+  width: 1920px;
+}
+
+.atoms-page .btn-nav-contents {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.atoms-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.atoms-page .rectangle-224-1 {
+  border-color: transparent;
+}
+
+.atoms-page .rise_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.atoms-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 113px;
+  margin-top: 91px;
+  position: relative;
+}
+
+.atoms-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.atoms-page .overlap-group4 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  margin-right: 14.0px;
+  margin-top: 19px;
+  min-height: 244px;
+  width: 1680px;
+}
+
+.atoms-page .line {
+  align-self: flex-end;
+  height: 1px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.atoms-page .atoms-are-the-fundam {
+  letter-spacing: 0;
+  line-height: 42px;
+  min-height: 126px;
+  width: 1668px;
+}
+
+.atoms-page .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 82px;
+  height: 362px;
+  margin-right: 1.0px;
+  margin-top: 212px;
+  min-width: 1395px;
+}
+
+.atoms-page .mode-typography-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 362px;
+  width: 172px;
+}
+
+.atoms-page .light-mode-typography {
+  align-items: flex-start;
+  background-color: #fdfdfd;
+  border: 1px solid;
+  border-color: #b0b0b0;
+  display: inline-flex;
+  gap: 10px;
+  padding: 30px;
+  position: relative;
+}
+
+.atoms-page .typography-light {
+  height: 112px;
+}
+
+.atoms-page .property-1h1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.atoms-page .h1 {
+  color: var(--black);
+  font-weight: 800;
+  line-height: 72px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atoms-page .property-1-helper {
+  height: 15px;
+  width: 1px;
+}
+
+.atoms-page .property-1-tooltip {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+.atoms-page .text {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.atoms-page .dark-mode-typography {
+  align-items: flex-start;
+  background-color: #121212;
+  display: inline-flex;
+  gap: 10px;
+  padding: 30px;
+  position: relative;
+}
+
+.atoms-page .h1-1 {
+  color: var(--black--whitewhite);
+  font-weight: 800;
+  line-height: 72px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atoms-page .icon-bg-set {
+  align-items: flex-end;
+  display: flex;
+  gap: 42px;
+  min-width: 324px;
+}
+
+.atoms-page .bg-icon {
+  background-color: var(--orient);
+  height: 40px;
+  width: 40px;
+}
+
+.atoms-page .bg-icon-1 {
+  background-color: var(--orient);
+  height: 79px;
+  width: 80px;
+}
+
+.atoms-page .bg-icon-2 {
+  background-color: var(--orient);
+  height: 119px;
+  width: 120px;
+}
+
+.atoms-page .icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 39px;
+  height: 79px;
+  margin-bottom: 0.46px;
+  min-width: 293px;
+}
+
+.atoms-page .icon-more {
+  align-self: center;
+  height: 18px;
+  margin-bottom: 0.54px;
+  width: 72px;
+}
+
+.atoms-page .vector {
+  height: 77px;
+  width: 81px;
+}
+
+.atoms-page .icon-download {
+  align-self: flex-end;
+  height: 76px;
+  margin-bottom: 0;
+  width: 62px;
+}
+
+.atoms-page .img-placeholder {
+  align-items: flex-end;
+  background-color: var(--alto);
+  display: flex;
+  height: 300px;
+  justify-content: flex-end;
+  margin-bottom: 2px;
+  min-width: 360px;
+}
+
+.atoms-page .linesmallsecondary {
+  align-items: flex-end;
+  display: flex;
+  height: 1px;
+  margin-right: 496.0px;
+  margin-top: 91px;
+  min-width: 900px;
+}
+
+.atoms-page .line-line-line {
+  align-items: flex-start;
+  display: flex;
+  height: 2px;
+  margin-bottom: -1px;
+  min-width: 900px;
+}
+
+.atoms-page .line-65 {
+  height: 3px;
+  margin-top: -3px;
+  width: 900px;
+}
+
+.atoms-page .line-line-line-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 1px;
+  margin-right: 496.0px;
+  margin-top: 63px;
+  min-width: 900px;
+}
+
+.atoms-page .overlap-group3 {
+  height: 623px;
+  margin-top: 83px;
+  position: relative;
+  width: 1628px;
+}
+
+.atoms-page .overlap-group5 {
+  height: 502px;
+  left: 0;
+  position: absolute;
+  top: 62px;
+  width: 1628px;
+}
+
+.atoms-page .line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 500px;
+  width: 1628px;
+}
+
+.atoms-page .btn-bg-secondary {
+  justify-content: center;
+  left: 506px;
+}
+
+.atoms-page .bg-iconprimarydefaultsmalloutline-1 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--orient);
+  border-radius: 8px;
+  display: flex;
+  height: 84px;
+  margin-left: -2px;
+  min-width: 304px;
+}
+
+.atoms-page .rectangle-224-2 {
+  border-color: var(--orient);
+  width: 300px;
+}
+
+.atoms-page .bg-iconbasedefaultsmalloutline {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: #0073a6;
+  border-radius: 8px;
+  display: flex;
+  height: 84px;
+  margin-left: -2px;
+  margin-top: 16px;
+  min-width: 304px;
+}
+
+.atoms-page .rectangle-224 {
+  border: 1px solid;
+  border-color: var(--black--whitewhite);
+  height: 80px;
+  width: 300px;
+}
+
+.atoms-page .bg-iconbasedefaultsmalloutline-1 {
+  border-color: #003b55;
+  margin-top: 16px;
+}
+
+.atoms-page .bg-iconbasedefaultsmalloutline-2 {
+  border-color: #004d73;
+  margin-top: 27px;
+}
+
+.atoms-page .bg-iconbasedefaultsmalloutline-3 {
+  border-color: #a6bcc8;
+  margin-top: 27px;
+}
+
+.atoms-page .btn-bg-primary {
+  left: 116px;
+}
+
+.atoms-page .bg-iconprimarydefaultsmallsolid {
+  background-color: var(--orient);
+  border-radius: 8px;
+  height: 80px;
+  width: 300px;
+}
+
+.atoms-page .bg-iconprimaryhoversmallsolid {
+  background-color: #0073a6;
+  border-radius: 8px;
+  height: 80px;
+  margin-top: 20px;
+  width: 300px;
+}
+
+.atoms-page .bg-iconprimarydownsmallsolid {
+  background-color: #003b55;
+  border-radius: 8px;
+  height: 80px;
+  margin-top: 20px;
+  width: 300px;
+}
+
+.atoms-page .bg-iconprimaryselectedsmallsolid {
+  background-color: #004d73;
+  border-radius: 8px;
+  height: 80px;
+  margin-top: 31px;
+  width: 300px;
+}
+
+.atoms-page .bg-iconprimaryvisitedsmallsolid {
+  background-color: #a6bcc8;
+  border-radius: 8px;
+  height: 80px;
+  margin-top: 31px;
+  width: 300px;
+}
+
+.atoms-page .card {
+  align-items: flex-start;
+  display: flex;
+  height: 560px;
+  justify-content: flex-end;
+  left: 921px;
+  min-width: 420px;
+  position: absolute;
+  top: 0;
+}
+
+.atoms-page .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-131.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 408px;
+}
+
+.atoms-page .bg-iconbasedefaultsmalloutline-4 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-radius: 8px;
+  display: flex;
+  height: 84px;
+  margin-left: -2px;
+  min-width: 304px;
+}
+
+.atoms-page .btn-bg {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 502px;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.atoms-page .property-1 {
+  margin-bottom: -20.00px;
+  position: relative;
+}
+
+.atoms-page .rectangle-224-3 {
+  border: 1px solid;
+  height: 80px;
+}
+
+.atoms-page .typography-1 {
+  align-items: flex-start;
+  border: 1px dashed;
+  border-color: #7b61ff;
+  border-radius: 5px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  overflow: hidden;
+  padding: 20px 16px;
+  position: relative;
+}

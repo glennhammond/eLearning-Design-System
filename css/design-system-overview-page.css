@@ -1,0 +1,132 @@
+/* screen - design-system-overview-page */
+
+.design-system-overview-page {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 4713px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.design-system-overview-page .btn-nav-contents {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.design-system-overview-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.design-system-overview-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.design-system-overview-page .overlap-group2 {
+  height: 331px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.design-system-overview-page .design-system-overview_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.design-system-overview-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 99px;
+  position: absolute;
+  top: 111px;
+}
+
+.design-system-overview-page .overlap-group1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-right: 14.0px;
+  min-height: 169px;
+  width: 1680px;
+}
+
+.design-system-overview-page .rise_-divider_02 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  margin-left: 38.0px;
+  min-width: 1628px;
+  padding: 59px 0;
+}
+
+.design-system-overview-page .line {
+  height: 1px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.design-system-overview-page .typography-2 {
+  align-self: flex-start;
+  margin-left: 165px;
+  margin-top: 6px;
+}
+
+.design-system-overview-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.design-system-overview-page .subtitle {
+  color: transparent;
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  line-height: 32px;
+  margin-right: 19.0px;
+  margin-top: 41px;
+  min-height: 2032px;
+  width: 1571px;
+}
+
+.design-system-overview-page .span {
+  letter-spacing: 0.31px;
+}
+
+.design-system-overview-page .span-1 {
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.design-system-overview-page .span22 {
+  color: var(--black);
+  line-height: 42px;
+}
+
+.design-system-overview-page .typography-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}

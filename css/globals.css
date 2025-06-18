@@ -1,0 +1,308 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,600|Cairo:400|Roboto:400,600|Poppins:800|Inter:500,400,700,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/684b6e8de25a96b13416c560.684b6e8ee25a96b13416c563.cyWSBza.hcp.png");
+
+@font-face {
+  font-family: "Century Gothic-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Century Gothic") format("truetype");
+}
+@font-face {
+  font-family: "Century Gothic-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Century Gothic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ITC Avant Garde Gothic Pro-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/ITC Avant Garde Gothic Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "ITC Avant Garde Gothic Pro-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/ITC Avant Garde Gothic Bold.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.btn-nav {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.bg-iconprimarydefaultsmalloutline {
+  background-color: var(--black--whitewhite);
+  border-radius: 8px;
+  height: 80px;
+  position: relative;
+  width: 420px;
+}
+
+.h4-contents {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 52px;
+  position: absolute;
+  top: 36px;
+}
+
+.h5 {
+  letter-spacing: 0.72px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.header_primary {
+  align-self: stretch;
+  background-color: var(--orient);
+  height: 300px;
+  position: relative;
+  width: 100%;
+}
+
+.subheader_secondary {
+  align-self: stretch;
+  background-color: var(--banana);
+  height: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.h2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.h2-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-design-system-1 {
+  height: 63px;
+  object-fit: cover;
+  width: 220px;
+}
+
+.icon-atomic-primary-1 {
+  height: 116px;
+  object-fit: cover;
+  width: 103px;
+}
+
+.icon-core-more-bore-primary-1 {
+  height: 116px;
+  object-fit: cover;
+  width: 97px;
+}
+
+.deviderhorizon {
+  align-self: flex-end;
+  height: 1px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.h4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.card-icon-area {
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  height: 206px;
+  width: 484px;
+}
+
+.icon-swatches {
+  height: 120px;
+  object-fit: cover;
+  width: 114px;
+}
+
+.icon-typography {
+  height: 134px;
+  object-fit: cover;
+  width: 200px;
+}
+
+.icon-icons {
+  height: 79px;
+  object-fit: cover;
+  width: 294px;
+}
+
+.icon-course-structure-1 {
+  height: 112px;
+  object-fit: cover;
+  width: 220px;
+}
+
+.icon-asset-register-2 {
+  height: 116px;
+  object-fit: cover;
+  width: 190px;
+}
+
+.card-title-10 {
+  min-width: 104px;
+}
+
+.card-title-11 {
+  min-width: 48px;
+}
+
+.icon-h5p-1 {
+  height: 76px;
+  object-fit: cover;
+  width: 175px;
+}
+
+.card-title-12 {
+  min-width: 47px;
+}
+
+.card-title-13 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 32px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.h3-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.ellipse-34 {
+  background-color: var(--black);
+  border-radius: 9px;
+  height: 18px;
+  width: 18px;
+}
+
+.rectangle-132 {
+  height: 556px;
+  width: 408px;
+}
+
+.line-container {
+  height: 299px;
+  position: relative;
+  width: 359px;
+}
+
+.line-5 {
+  height: 288px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 359px;
+}
+
+.line-6 {
+  height: 299px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.heading {
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.organisms-are-relati {
+  letter-spacing: 0;
+  line-height: 42px;
+  min-height: 126px;
+  width: 1600px;
+}
+
+.credit {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 12px;
+  height: 96px;
+  padding: 0px 96px;
+  position: relative;
+}
+
+.rise_-divider_02-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  margin-left: 38.0px;
+  min-width: 1628px;
+  padding: 59px 0;
+}

@@ -1,0 +1,582 @@
+/* screen - typography-page */
+
+.typography-page {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 4713px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.typography-page .btn-nav-contents {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.typography-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.typography-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.typography-page .rise_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.typography-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 113px;
+  margin-top: 91px;
+  position: relative;
+}
+
+.typography-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .overlap-group5 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  margin-right: 14.0px;
+  margin-top: 19px;
+  min-height: 244px;
+  width: 1680px;
+}
+
+.typography-page .line {
+  align-self: flex-end;
+  height: 1px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.typography-page .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 42px;
+  min-height: 126px;
+  width: 1600px;
+}
+
+.typography-page .typography-1 {
+  align-items: flex-start;
+  border: 1px dashed;
+  border-color: #9747ff;
+  border-radius: 5px;
+  display: flex;
+  gap: 37px;
+  height: 1462px;
+  margin-left: 220px;
+  margin-top: 139px;
+  overflow: hidden;
+  padding: 10px 17px;
+  width: 666px;
+}
+
+.typography-page .flex-col {
+  flex-direction: column;
+  min-height: 1152px;
+  width: 433px;
+}
+
+.typography-page .flex-row {
+  height: 519px;
+  min-width: 433px;
+}
+
+.typography-page .flex-col-1 {
+  min-height: 519px;
+}
+
+.typography-page .color {
+  height: 185px;
+  position: relative;
+  width: 120px;
+}
+
+.typography-page .texth1-color {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.typography-page .h1 {
+  color: var(--black);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 96px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .texth2-color {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 107px;
+}
+
+.typography-page .text {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 24px;
+  position: relative;
+}
+
+.typography-page .texth6-color {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 14px;
+  position: relative;
+}
+
+.typography-page .h6 {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .body {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .flex-col-2 {
+  margin-left: 36px;
+  min-height: 519px;
+}
+
+.typography-page .h1-1 {
+  color: var(--black--whitewhite);
+}
+
+.typography-page .h3-2 {
+  color: var(--black--whitewhite);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+
+.typography-page .h4-1 {
+  color: var(--black--whitewhite);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .body-1 {
+  color: var(--black--whitewhite);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.typography-page .flex-col-3 {
+  margin-left: 37px;
+  min-height: 519px;
+}
+
+.typography-page .h1-2 {
+  color: var(--orient);
+}
+
+.typography-page .h2-2 {
+  color: var(--orient);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.typography-page .h3-3 {
+  color: var(--orient);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+
+.typography-page .h4-2 {
+  color: var(--orient);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .texth6-color-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 11px;
+  position: relative;
+}
+
+.typography-page .h6-2 {
+  color: var(--orient);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+}
+
+.typography-page .textbody-color {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 27px;
+  position: relative;
+}
+
+.typography-page .body-2 {
+  color: var(--orient);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.typography-page .textbody-large-color-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 96px;
+  margin-top: 400px;
+  min-width: 345px;
+}
+
+.typography-page .text-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.typography-page .body-large {
+  color: var(--black);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 78px;
+  white-space: nowrap;
+}
+
+.typography-page .textbody-large-colorbase {
+  align-items: center;
+  align-self: flex-end;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.typography-page .body-large-1 {
+  letter-spacing: 0;
+  line-height: 78px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.typography-page .textbody-small-color-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 60px;
+  height: 25px;
+  margin-right: 23px;
+  margin-top: 47px;
+  min-width: 254px;
+}
+
+.typography-page .body-small {
+  color: var(--black--whitewhite);
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.typography-page .body-small-1 {
+  color: var(--orient);
+}
+
+.typography-page .textbody-small-colorkey {
+  margin-top: 8px;
+}
+
+.typography-page .body-small-2 {
+  color: var(--black);
+}
+
+.typography-page .textcaption-color-container {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  margin-top: 13px;
+  min-width: 364px;
+}
+
+.typography-page .caption {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .textcaption-colorbase {
+  margin-left: 105px;
+}
+
+.typography-page .caption-1 {
+  color: var(--black--whitewhite);
+}
+
+.typography-page .textcaption-colorprimary {
+  margin-left: 106px;
+}
+
+.typography-page .caption-2 {
+  color: var(--orient);
+}
+
+.typography-page .flex-col-4 {
+  min-height: 1158px;
+}
+
+.typography-page .h1-3 {
+  color: var(--banana);
+}
+
+.typography-page .h2-3 {
+  color: var(--banana);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.typography-page .h3-4 {
+  color: var(--banana);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+
+.typography-page .h4-3 {
+  color: var(--banana);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .h5-4 {
+  color: var(--banana);
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+}
+
+.typography-page .h6-3 {
+  color: var(--banana);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+}
+
+.typography-page .body-3 {
+  color: var(--banana);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.typography-page .textbody-small-colorsecondary {
+  margin-top: 543px;
+}
+
+.typography-page .body-small-3 {
+  color: var(--banana);
+}
+
+.typography-page .textcaption-colorsecondary {
+  margin-top: 52px;
+}
+
+.typography-page .caption-3 {
+  color: var(--banana);
+}
+
+.typography-page .body-4 {
+  font-family: var(--font-family-open_sans);
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .body-small-4 {
+  font-family: var(--font-family-open_sans);
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.54px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .caption-4 {
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.typography-page .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: 120px;
+}
+
+.typography-page .h1-4 {
+  font-family: var(--font-family-century_gothic-bold);
+  font-size: 96px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .h2-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .h3-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .h5-5 {
+  letter-spacing: 0.96px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .h6-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.typography-page .textbody-small {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.typography-page .textcaption {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}

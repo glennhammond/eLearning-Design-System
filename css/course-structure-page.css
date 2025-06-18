@@ -1,0 +1,427 @@
+/* screen - course-structure-page */
+
+.course-structure-page {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 4713px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.course-structure-page .btn-nav-contents {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.course-structure-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.course-structure-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.course-structure-page .overlap-group2 {
+  height: 331px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.course-structure-page .rise_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.course-structure-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 99px;
+  position: absolute;
+  top: 111px;
+}
+
+.course-structure-page .typography-1 {
+  display: inline-flex;
+  margin-left: 113px;
+  margin-top: 91px;
+  position: relative;
+}
+
+.course-structure-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.course-structure-page .overlap-group1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 58px;
+  margin-right: 14.0px;
+  margin-top: 19px;
+  min-height: 244px;
+  width: 1680px;
+}
+
+.course-structure-page .line {
+  align-self: flex-end;
+  height: 1px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.course-structure-page .flow {
+  align-self: center;
+  height: 2259px;
+  margin-top: 200px;
+  position: relative;
+  width: 1654px;
+}
+
+.course-structure-page .flex-col {
+  flex-direction: column;
+  gap: 6px;
+  left: -8984px;
+  min-height: 522px;
+  position: absolute;
+  top: -1064px;
+  width: 240px;
+}
+
+.course-structure-page .start {
+  height: 128px;
+  width: 240px;
+}
+
+.course-structure-page .connector-line {
+  height: 56px;
+  margin-left: 1.0px;
+  width: 1px;
+}
+
+.course-structure-page .acknowledgement {
+  height: 128px;
+  width: 240px;
+}
+
+.course-structure-page .group-427318211 {
+  background-image: url(../img/shape-with-text-1.svg);
+  height: 128px;
+}
+
+.course-structure-page .shape-with-text {
+  height: 64px;
+  margin-left: -9203px;
+  margin-top: -1032px;
+  width: 60px;
+}
+
+.course-structure-page .flex-col-1 {
+  align-items: flex-end;
+  gap: 78px;
+  left: -8984px;
+  min-height: 1788px;
+  position: absolute;
+  top: -387px;
+  width: 10437px;
+}
+
+.course-structure-page .flex-row {
+  height: 1582px;
+  min-width: 10437px;
+}
+
+.course-structure-page .flex-col-2 {
+  align-items: center;
+  align-self: flex-end;
+  min-height: 1385px;
+  width: 240px;
+}
+
+.course-structure-page .statistics {
+  height: 128px;
+  width: 240px;
+}
+
+.course-structure-page .connector-line-1 {
+  height: 61px;
+  margin-left: 1.0px;
+  margin-top: 4px;
+  width: 1px;
+}
+
+.course-structure-page .scenario-1-4 {
+  height: 128px;
+  margin-top: 4px;
+  width: 240px;
+}
+
+.course-structure-page .connector-line-2 {
+  height: 66px;
+  margin-left: 1.0px;
+  margin-top: 4px;
+  width: 1px;
+}
+
+.course-structure-page .formative-1 {
+  margin-top: 4px;
+}
+
+.course-structure-page .formative-2 {
+  margin-top: 69px;
+}
+
+.course-structure-page .group-42731821 {
+  background-image: url(../img/shape-with-text-7.svg);
+  height: 124px;
+  margin-top: 69px;
+}
+
+.course-structure-page .shape-with-text-1 {
+  height: 63px;
+  margin-left: -9203px;
+  margin-top: -1034px;
+  width: 59px;
+}
+
+.course-structure-page .scenario-2-4 {
+  height: 128px;
+  margin-top: 147px;
+  width: 240px;
+}
+
+.course-structure-page .flex-col-3 {
+  align-items: flex-end;
+  align-self: flex-start;
+  margin-left: 4px;
+  min-height: 724px;
+  width: 305px;
+}
+
+.course-structure-page .role-b {
+  height: 128px;
+  margin-right: 6px;
+  width: 240px;
+}
+
+.course-structure-page .connector-line-3 {
+  align-self: flex-start;
+  height: 129px;
+  margin-top: 4px;
+  width: 179px;
+}
+
+.course-structure-page .question {
+  height: 128px;
+  margin-top: 335px;
+  width: 240px;
+}
+
+.course-structure-page .frame-427318330 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-3467560.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  margin-left: 8436px;
+  margin-top: 662.0px;
+  min-width: 239px;
+  padding: 14px 0;
+}
+
+.course-structure-page .role-a {
+  color: #00000099;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 42px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 239px;
+}
+
+.course-structure-page .btn-sml-examples {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--orient);
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  margin-bottom: 346.0px;
+  margin-left: 988px;
+  min-width: 225px;
+}
+
+.course-structure-page .overlap-group-1 {
+  border-radius: 8px;
+  height: 64px;
+  margin-top: -2px;
+  position: relative;
+  width: 229px;
+}
+
+.course-structure-page .btn {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border: 2px solid;
+  border-color: var(--orient);
+  border-radius: 8px;
+  display: flex;
+  height: 64px;
+  left: 0;
+  min-width: 229px;
+  position: absolute;
+  top: 0;
+}
+
+.course-structure-page .rectangle-224-1 {
+  border: 1px solid;
+  border-color: var(--orient);
+  height: 60px;
+  width: 225px;
+}
+
+.course-structure-page .typography-2 {
+  display: flex;
+  height: 29px;
+  left: 80px;
+  position: absolute;
+  top: 17px;
+  width: 70px;
+}
+
+.course-structure-page .heading-5 {
+  color: var(--orient);
+  font-family: var(--font-family-itc_avant_garde_gothic_pro-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  margin-bottom: -0.38px;
+  margin-top: -2.38px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.course-structure-page .question-1 {
+  color: #00000099;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 128px;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 1212px;
+  text-align: center;
+  text-decoration: underline;
+  width: 240px;
+}
+
+.course-structure-page .flex-col-4 {
+  align-items: flex-start;
+  left: -9293px;
+  min-height: 730px;
+  position: absolute;
+  top: -393px;
+  width: 305px;
+}
+
+.course-structure-page .role-a-1 {
+  height: 128px;
+  width: 240px;
+}
+
+.course-structure-page .connector-line-4 {
+  align-self: flex-end;
+  height: 146px;
+  margin-top: 4px;
+  width: 185px;
+}
+
+.course-structure-page .shape-with-text-2 {
+  height: 128px;
+  margin-top: 324px;
+  width: 240px;
+}
+
+.course-structure-page .this-selection-sets {
+  height: 240px;
+  left: -7879px;
+  position: absolute;
+  top: -665px;
+  width: 240px;
+}
+
+.course-structure-page .connector-line-5 {
+  height: 147px;
+  left: -8864px;
+  position: absolute;
+  top: -538px;
+  width: 303px;
+}
+
+.course-structure-page .connector-line-6 {
+  height: 141px;
+  left: -9173px;
+  position: absolute;
+  top: -538px;
+  width: 309px;
+}
+
+.course-structure-page .flex {
+  align-items: center;
+  display: flex;
+}
+
+.course-structure-page .flex-col-5 {
+  display: flex;
+  flex-direction: column;
+}
+
+.course-structure-page .formative {
+  align-items: flex-start;
+  background-image: url(../img/shape-with-text-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 128px;
+  min-width: 240px;
+}
+
+.course-structure-page .group {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 240px;
+}
+
+.course-structure-page .typography-3 {
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}

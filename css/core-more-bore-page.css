@@ -1,0 +1,158 @@
+/* screen - core-more-bore-page */
+
+.core-more-bore-page {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 4713px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.core-more-bore-page .btn-nav-contents {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.core-more-bore-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.core-more-bore-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.core-more-bore-page .design-system_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.core-more-bore-page .overlap-group1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-right: 14.0px;
+  min-height: 169px;
+  width: 1680px;
+}
+
+.core-more-bore-page .rise_-divider_02 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  margin-left: 38.0px;
+  min-width: 1628px;
+  padding: 59px 0;
+}
+
+.core-more-bore-page .line {
+  height: 1px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.core-more-bore-page .typography-2 {
+  align-self: flex-start;
+  margin-left: 165px;
+  margin-top: 6px;
+}
+
+.core-more-bore-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.core-more-bore-page .design-system {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 19.0px;
+  margin-top: 41px;
+  min-height: 170px;
+  width: 1571px;
+}
+
+.core-more-bore-page .typography {
+  align-items: center;
+  align-self: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 165px;
+  margin-top: 95px;
+  position: relative;
+}
+
+.core-more-bore-page .design-system-1 {
+  min-height: 462px;
+}
+
+.core-more-bore-page .placeholder {
+  background-color: var(--alto);
+  height: 500px;
+  margin-right: 112.0px;
+  margin-top: 95px;
+  width: 1400px;
+}
+
+.core-more-bore-page .typography-3 {
+  align-self: flex-start;
+  margin-left: 165px;
+  margin-top: 107px;
+}
+
+.core-more-bore-page .h4-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.core-more-bore-page .design-system-2 {
+  min-height: 213px;
+}
+
+.core-more-bore-page .h4-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.core-more-bore-page .design-system-3 {
+  min-height: 696px;
+}
+
+.core-more-bore-page .design-system-4 {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 19.0px;
+  margin-top: 93px;
+  width: 1571px;
+}
+
+.core-more-bore-page .typography-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}

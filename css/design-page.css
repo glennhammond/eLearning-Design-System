@@ -1,0 +1,203 @@
+/* screen - design-page */
+
+.design-page {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 6251px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.design-page .btn-nav-contents {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.design-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.design-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.design-page .overlap-group3 {
+  height: 331px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.design-page .rise_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.design-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 99px;
+  position: absolute;
+  top: 111px;
+}
+
+.design-page .typography-1 {
+  margin-left: 113px;
+  margin-top: 91px;
+}
+
+.design-page .rise_-divider_02 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 120px;
+  margin-left: 38.0px;
+  min-width: 1628px;
+  padding: 59px 0;
+}
+
+.design-page .line {
+  height: 1px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.design-page .typography-2 {
+  margin-left: 165px;
+  margin-top: 6px;
+}
+
+.design-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.design-page .card-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 12.0px;
+  margin-top: 126px;
+  min-width: 1680px;
+}
+
+.design-page .card {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.design-page .overlap-group1 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 45px 128px;
+}
+
+.design-page .card-title {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 32px;
+  min-width: 185px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.design-page .card-1 {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  margin-left: 73px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.design-page .card-title-1 {
+  min-width: 20px;
+}
+
+.design-page .card-2 {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  margin-left: 83px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.design-page .overlap-group2 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 147px;
+}
+
+.design-page .card-title-2 {
+  min-width: 164px;
+}
+
+.design-page .card-title-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 32px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.design-page .typography-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}

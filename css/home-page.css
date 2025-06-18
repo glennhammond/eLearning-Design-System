@@ -1,0 +1,338 @@
+/* screen - home-page */
+
+.home-page {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 6251px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.home-page .btn-nav-contents {
+  align-items: flex-start;
+  display: flex;
+  min-width: 440px;
+}
+
+.home-page .overlap-group11 {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.home-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.home-page .overlap-group12 {
+  height: 331px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-page .rise_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home-page .typography-1 {
+  left: 99px;
+  position: absolute;
+  top: 111px;
+}
+
+.home-page .atoms-are-the-fundam {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 54.0px;
+  margin-top: 113px;
+  min-height: 126px;
+  width: 1668px;
+}
+
+.home-page .typography-2 {
+  margin-left: 126px;
+  margin-top: 70px;
+  position: relative;
+}
+
+.home-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.home-page .card-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 12.0px;
+  margin-top: 68px;
+  min-width: 1680px;
+}
+
+.home-page .card {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.home-page .overlap-group-1 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 71px 132px;
+}
+
+.home-page .card-title-3 {
+  min-width: 291px;
+}
+
+.home-page .card-1 {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  margin-left: 73px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.home-page .overlap-group4 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 190px;
+}
+
+.home-page .card-title-4 {
+  min-width: 167px;
+}
+
+.home-page .card-2 {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  margin-left: 83px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.home-page .overlap-group7 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 193px;
+}
+
+.home-page .card-title-5 {
+  min-width: 213px;
+}
+
+.home-page .typography-3 {
+  margin-left: 126px;
+  margin-top: 121px;
+  position: relative;
+}
+
+.home-page .overlap-group1 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 45px 128px;
+}
+
+.home-page .card-title {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 32px;
+  min-width: 185px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.home-page .card-title-1 {
+  min-width: 20px;
+}
+
+.home-page .overlap-group8 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 147px;
+}
+
+.home-page .icon-asset-register-1 {
+  height: 116px;
+  object-fit: cover;
+  width: 190px;
+}
+
+.home-page .card-title-6 {
+  min-width: 164px;
+}
+
+.home-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 126px;
+  margin-top: 170px;
+  position: relative;
+}
+
+.home-page .overlap-group2 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 185px;
+}
+
+.home-page .card-title-7 {
+  min-width: 89px;
+}
+
+.home-page .overlap-group5 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 142px;
+}
+
+.home-page .card-title-8 {
+  min-width: 137px;
+}
+
+.home-page .overlap-group9 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 63px 95px;
+}
+
+.home-page .card-title-9 {
+  min-width: 175px;
+}
+
+.home-page .overlap-group {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 184px;
+}
+
+.home-page .icon {
+  height: 116px;
+  object-fit: cover;
+  width: 116px;
+}
+
+.home-page .overlap-group10 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 206px;
+  min-width: 484px;
+  padding: 0 154px;
+}
+
+.home-page .card-3 {
+  align-items: flex-start;
+  background-color: var(--black--whitewhite);
+  border-radius: 20px;
+  box-shadow: 0px 2px 60px #ecedee;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  height: 330px;
+  margin-left: 83px;
+  overflow: hidden;
+  padding: 12px 0;
+  width: 508px;
+}
+
+.home-page .card-title-2 {
+  min-width: 181px;
+}
+
+.home-page .typography-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+}

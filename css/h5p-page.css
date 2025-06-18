@@ -1,0 +1,162 @@
+/* screen - h5p-page */
+
+.h5p-page {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 4713px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.h5p-page .btn-nav-contents {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 14px;
+  min-width: 440px;
+}
+
+.h5p-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.h5p-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.h5p-page .overlap-group2 {
+  height: 331px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.h5p-page .design-system_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.h5p-page .typography-1 {
+  left: 99px;
+  position: absolute;
+  top: 111px;
+}
+
+.h5p-page .overlap-group1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-right: 14.0px;
+  min-height: 169px;
+  width: 1680px;
+}
+
+.h5p-page .typography-2 {
+  position: relative;
+}
+
+.h5p-page .line {
+  height: 1px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.h5p-page .typography {
+  align-items: center;
+  align-self: flex-start;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 165px;
+  margin-top: 6px;
+  position: relative;
+}
+
+.h5p-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.h5p-page .subtitle {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 19.0px;
+  margin-top: 41px;
+  min-height: 965px;
+  width: 1571px;
+}
+
+.h5p-page .rise_-divider_02 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  margin-left: 38.0px;
+  margin-top: 1px;
+  min-width: 1628px;
+  padding: 59px 0;
+}
+
+.h5p-page .subtitle-1 {
+  min-height: 795px;
+}
+
+.h5p-page .subtitle-2 {
+  min-height: 336px;
+}
+
+.h5p-page .page-footer {
+  align-items: center;
+  display: flex;
+  margin-right: 46.0px;
+  margin-top: 776px;
+  position: relative;
+  width: 1820px;
+}
+
+.h5p-page .copyright {
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.h5p-page .h3-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.h5p-page .subtitle-3 {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 19.0px;
+  margin-top: 41px;
+  width: 1571px;
+}
+
+.h5p-page .typography-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+}

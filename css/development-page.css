@@ -1,0 +1,100 @@
+/* screen - development-page */
+
+.development-page {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  height: 6251px;
+  padding: 14px 0;
+  width: 1920px;
+}
+
+.development-page .btn-nav-contents {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 440px;
+}
+
+.development-page .overlap-group {
+  height: 100px;
+  position: relative;
+  width: 440px;
+}
+
+.development-page .rectangle-224 {
+  border: 1px solid;
+  border-color: transparent;
+  height: 80px;
+}
+
+.development-page .overlap-group1 {
+  height: 331px;
+  margin-top: 6px;
+  position: relative;
+  width: 1920px;
+}
+
+.development-page .rise_header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.development-page .typography {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 99px;
+  position: absolute;
+  top: 111px;
+}
+
+.development-page .typography-1 {
+  margin-left: 113px;
+  margin-top: 91px;
+}
+
+.development-page .rise_-divider_02 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 120px;
+  margin-left: 38.0px;
+  min-width: 1628px;
+  padding: 59px 0;
+}
+
+.development-page .line {
+  height: 1px;
+  object-fit: cover;
+  width: 1628px;
+}
+
+.development-page .typography-2 {
+  margin-left: 165px;
+  margin-top: 6px;
+}
+
+.development-page .h3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.development-page .typography-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
